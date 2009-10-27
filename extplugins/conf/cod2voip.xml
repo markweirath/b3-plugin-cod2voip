@@ -1,0 +1,9 @@
+<configuration plugin="cod2voip">
+	<settings name="commands">
+		<set name="voip">60</set>
+		<set name="voipstatus-vos">2</set>
+		<set name="voipdead-vod">80</set>
+		<set name="voipquality-voq">100</set>
+		<set name="voipecho-voe">80</set>
+	</settings>
+</configuration>
